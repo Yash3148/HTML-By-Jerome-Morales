@@ -1,0 +1,62 @@
+1. Strong
+<strong></strong>
+--> The strong element represents strong importance, seriousness, or urgency for its contents.
+Example ---> 
+Good Day Everyone.
+<strong>
+    Hello Linux!!!
+</strong>
+Output --> 
+Good Day Everyone. Hello Linux!!!
+
+2. Paragraph
+<p></p>
+---> The p element represents a paragraph.
+
+3. To add links to your website.
+<a href=""></a>
+---> If the a element has an href attribute, then it represents a hyperlink (a hypertext anchor) labeled by its contents.
+
+4. To give word boldness.
+<b></b>
+---> The b element represents a span of text to which attention is being drawn for utilitarian purposes without conveying any extra importance and with no implication of an alternate voice or mood, such as key words in a document abstract, product names in a review, actionable words in interactive text-driven software, or an article lede.
+
+5. Different type of h1
+<h1></h1>
+---> The h1 element represents a section heading.
+h1, h2, h3, h4, h5, h6.
+h1 will be highest font, whearas h6 will be lowest font size.
+
+6. Italic Version
+<em></em>
+<i></i>
+----> The em element represents stress emphasis of its contents.
+<em>Leo Messi</em>
+Leo Messi (text is in italic form).
+
+7. Inserting image
+<img src="" alt="">
+---> An img element represents an image.
+
+8. Unodered List
+<uL>
+    <li>RedHat</li>
+    <li>Debian</li>
+    <li>Fedora</li>
+</uL>
+Output
+. RedHat
+. Debian
+. Fedora
+
+9. Ordered List 
+<ol>
+    <li>RedHat</li>
+    <li>Debian</li>
+    <li>Fedora</li>
+</ol>
+Output
+1. RedHat
+2. Debian
+3. Fedora
+
