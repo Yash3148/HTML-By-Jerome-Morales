@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Yoshita</title>
+</head>
+<body>
+    <h1>Basics of HTML forms</h1>
+    
+    <label for="Firstname">First name:</label>
+    <br>
+    <input type="text" placeholder="Enter your firstname" id="Firstname" >
+    
+    <br>
+    <br>
+
+    <label for="Lastname:">Last name:</label>
+    <br>
+    <input type="text" placeholder="Enter your lastname" id="Lastname">
+
+    <br>
+    <br>
+    <button>Submit</button>
+
+
+</body>
+</html>
